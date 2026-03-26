@@ -1,0 +1,23 @@
+
+   👉 ​Esta evaluación consiste en una entrega de encargo con presentación y tiene un 25% de ponderación sobre la nota final de la asignatura. 
+
+El Tiempo asignado para el desarrollo del encargo es de dos semanas (entrega de instrucciones la semana 3), entregándose el informe el mismo día de la presentación, la semana 5.  Para la presentación o defensa cuentan con 10 (minutos) y se realiza en parejas en Taller de alto computo. 
+
+Los/las estudiantes deberán:
+
+
+
+Desarrollar y presentar la primera parte del proyecto, detallando: 
+
+(1) Entrega de justificación de por qué este es un proyecto de Big Data (qué condiciones cumple para considerarlo como tal).
+
+(2) Objetivos a cumplir desde el punto de vista técnico
+
+(3) Propuesta de arquitectura, especificar herramientas que se deben utilizar y cuáles no, justificándolas
+
+(4) Propuesta para establecer un “gobierno de datos”
+
+(5) Asociar la problemática a una arquitectura de referencia indicando elementos que pueden faltar o no ser requeridos.   
+
+
+
